@@ -1,0 +1,26 @@
+SN:2241TERAPVJQB
+MAC:9009D0AB6A99    90-09-D0-AB-6A-9A
+DiskldxMap=0004
+SstaPortMap=45
+SasdxMap=0
+
+
+USB设备ID: VID = 0011 PID = 7788
+设备序列号: 507C2FCC
+
+
+
+
+
+918
+SN
+1780PDN149801
+MAC
+0011327B0CE5
+0011327B0CE6
+
+cat /sys/block/sata1/device/syno_block_info
+
+pciepath=00:13.0
+ata_port_no=1
+driver=ahci
